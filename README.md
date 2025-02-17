@@ -50,9 +50,9 @@ To run the code in this repository, you'll need to install the necessary Python 
    
 ## Screenshots
 
-![Screenshot1](News%20Scraping/Screenshots/Screenshot_1.png)
+![Screenshot1](Screenshots/Screenshot_1.png)
 
-![Screenshot2](News%20Scraping/Screenshots/Screenshot_2.png)
+![Screenshot2](Screenshots/Screenshot_2.png)
 
-![Screenshot3](News%20Scraping/Screenshots/Screenshot_3.png)
+![Screenshot3](Screenshots/Screenshot_3.png)
 
